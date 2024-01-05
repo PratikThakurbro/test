@@ -2,3 +2,6 @@ Git---main code base ka management tool
 git is a software
 iske bena git (management) ke process nhai kiye jaa sakte
 ye command line se hi chalega
+
+github
+same GT waali functionalities bas ye website ke roop me milegi 
