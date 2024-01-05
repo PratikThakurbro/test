@@ -6,4 +6,5 @@ ye command line se hi chalega
 
 github
 same GT waali functionalities bas ye website ke roop me milegi 
-
+it is a website
+ye srif git management ka online tareeka hai, isliye ise chalane ke liye git install hana chahiye
