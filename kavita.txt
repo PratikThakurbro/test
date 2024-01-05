@@ -1,4 +1,4 @@
 Git---main code base ka management tool
-software
+git is a software
 iske bena git (management) ke process nhai kiye jaa sakte
 ye command line se hi chalega
