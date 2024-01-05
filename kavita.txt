@@ -4,4 +4,6 @@ iske bena git (management) ke process nhai kiye jaa sakte
 ye command line se hi chalega
 
 
-GIThub
+github
+same GT waali functionalities bas ye website ke roop me milegi 
+
